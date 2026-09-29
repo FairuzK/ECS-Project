@@ -1,2 +1,1 @@
-# ECS-Project
 ## Overview
